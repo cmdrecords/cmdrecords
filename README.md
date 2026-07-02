@@ -15,9 +15,7 @@
 ## 👨‍💻 Обо мне
 
 Я **Nick**, frontend-разработчик из **Карлсруэ**, 🇩🇪 Германия. 
-  <img src="https://img.shields.io/badge/⬛%20Karlsruhe-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🟥%20Deutschland-FF0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🟨%20❤️-FFD700?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Frontend_%7C%20Karlsruhe%20%7C%20🇩🇪-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br>
 Создаю современные, быстрые и адаптивные веб-приложения с упором на чистую архитектуру, хороший UX и продуманный визуальный стиль.
 
 ---
