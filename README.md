@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Обо мне
 
-Я **Nick**, frontend-разработчик из **Карлсруэ**, <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="24" height="16" alt="Germany Flag" /> <br>
+Я **Nick**, frontend-разработчик из **Карлсруэ** <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="24" height="16" alt="Germany Flag" /> <br>
 Создаю современные, быстрые и адаптивные веб-приложения с упором на чистую архитектуру, хороший UX и продуманный визуальный стиль.
 
 ---
