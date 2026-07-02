@@ -37,8 +37,6 @@
 </p>
 
 ---
-
-
 ## 📈 График активности
 
 <p align="center">
@@ -56,6 +54,7 @@
   </picture>
 </p>
 ---
+
 ## 🏆 Codewars
 
 <p align="center">
