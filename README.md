@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Разработчик-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/Локация-Карлсруэ-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Germany" />
+  <img src="https://img.shields.io/badge/Локация-Weinböhla-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Germany" />
   <img src="https://img.shields.io/badge/Фокус-UI%2FUX%20%26%20Производительность-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Focus" />
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Обо мне
 
-Я **Nick**, frontend-разработчик из **Карлсруэ** <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="24" height="16" alt="Germany Flag" /> <br>
+Я **Nick**, frontend-разработчик из **Weinböhla** <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="24" height="16" alt="Germany Flag" /> <br>
 Создаю современные, быстрые и адаптивные веб-приложения с упором на чистую архитектуру, хороший UX и продуманный визуальный стиль.
 
 ---
