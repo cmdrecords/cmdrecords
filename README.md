@@ -31,6 +31,7 @@
 ## 🛠️ Стек технологий
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,npm,bootstrap,tailwind,styledcomponents,git,github,py,cpp,cs" />
   <img src="https://skillicons.dev/icons i=html,css,sass,js,ts,react,nodejs,npm,bootstrap,tailwind,styledcomponents,git,github,py,cpp,cs" />
 </p>
 
